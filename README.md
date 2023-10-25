@@ -1,4 +1,4 @@
-Olá! Me chamo Joao Batista, atualmente estou estudando para virar um desenvolvedor e estou fazendo o curso de desenvolvimento full-stack da @cubosacademy.
+Olá! Me chamo Joao Batista, atualmente estou estudando para virar um desenvolvedor de software e estou fazendo o curso de desenvolvimento full-stack da @cubosacademy.
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaobneto1&show_icons=true&theme=dracula&count_private=true)
 
