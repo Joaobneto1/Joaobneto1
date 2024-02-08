@@ -1,8 +1,8 @@
-Olá! Me chamo Joao Batista, atualmente estou estudando para virar um desenvolvedor de software e estou fazendo o curso de desenvolvimento full-stack da @cubosacademy.
+Hello! My name is João Batista, I'm currently studying to become a software developer and I'm taking the full-stack development course.
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaobneto1&show_icons=true&theme=dark&count_private=true)
 
-## Tecnologias que eu conheço
+## Technologies I know
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -13,7 +13,7 @@ Olá! Me chamo Joao Batista, atualmente estou estudando para virar um desenvolve
   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-### Entre em contato comigo! 📭
+### Contact me! 📭
 <div>
 <a href="https://www.linkedin.com/in/joaobatista011" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
