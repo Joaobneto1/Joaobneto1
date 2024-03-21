@@ -3,7 +3,7 @@ Hello! My name is João Batista, I'm currently a full stack software developer.
 ## About me:
 
 - 🤔 Full Stack Developer
-- 🎓 Computer Science at the Tiradentes University Center (UNIT(UNIMA)
+- 🎓 Computer Science at the Tiradentes University of Maceio - UNIMA
 - 💼 Studying with:  Javascript, Typescript, NodeJs, HTML, CSS
 - 🌱 Currently learning: React, NextJs
 
