@@ -1,8 +1,12 @@
 Hello! My name is João Batista, I'm currently a full stack software developer.
 
-Olá! Meu nome é João Batista, atualmente sou um desenvolvedor de software full stack.
+## About me:
 
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaobneto1&show_icons=true&theme=dark&count_private=true)
+- 🤔 Full Stack Developer
+- 🎓 Computer Science at the Tiradentes University Center (UNIT(UNIMA)
+- 💼 Studying with:  Javascript, Typescript, NodeJs, HTML, CSS
+- 🌱 Currently learning: React, NextJs
+
 
 ## Technologies I know
 
