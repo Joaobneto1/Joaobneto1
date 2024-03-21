@@ -1,6 +1,6 @@
-Hello! My name is João Batista, I'm currently studying to become a full stack software developer.
+Hello! My name is João Batista, I'm currently a full stack software developer.
 
-Olá! Meu nome é João Batista, atualmente estou estudando para ser desenvolvedor de software full stack.
+Olá! Meu nome é João Batista, atualmente sou um desenvolvedor de software full stack.
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaobneto1&show_icons=true&theme=dark&count_private=true)
 
