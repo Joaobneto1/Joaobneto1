@@ -18,6 +18,7 @@ Hello! My name is João Batista, I'm currently a full stack software developer.
   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
 ### Contact me! 📭
