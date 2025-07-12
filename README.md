@@ -144,6 +144,14 @@ Sou um desenvolvedor Full Stack em formação, estudante de Ciência da Computa�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"
 />
+<img 
+    align="left" 
+    alt="Prometheus" 
+    title="Prometheus"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg"
+/>
 <br/>
 <br/>
 
