@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou um desenvolvedor Full Stack em formação, estudante de Ciência da Computação na UNIMA | Afya. Apaixonado por tecnologia, atuo no desenvolvimento de aplicações web responsivas, seguras e centradas no usuário, com experiência em JavaScript, TypeScript, Node.js, ReactJS, Next.js. Trabalho com integração de APIs e bancos de dados, e tenho uma base sólida em lógica de programação, algoritmos e estruturas de dados. Atualmente, estou ampliando meus conhecimentos em Machine Learning, explorando como a inteligência artificial pode fortalecer soluções digitais. Estou sempre em busca de novos aprendizados e desafios que gerem impacto real.
+Sou um desenvolvedor Full Stack em formação, estudante de Ciência da Computação na UNIMA | Afya. Apaixonado por tecnologia, atuo no desenvolvimento de aplicações web responsivas, seguras e centradas no usuário, com experiência em JavaScript, TypeScript, Node.js, ReactJS, Next.js. Trabalho com integração de APIs e bancos de dados, e tenho uma base sólida em lógica de programação, algoritmos e estruturas de dados.
 
 ---
 
