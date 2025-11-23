@@ -168,6 +168,22 @@ Sou um desenvolvedor Full Stack formado em Ciências da Computação na UNIMA | 
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pnpm-Dark.svg"
 />
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
+/>
 <br/>
 <br/>
 
