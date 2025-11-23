@@ -160,6 +160,14 @@ Sou um desenvolvedor Full Stack formado em Ciências da Computação na UNIMA | 
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"
 />
+<img 
+    align="left" 
+    alt="PNPM" 
+    title="PNPM"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pnpm-Dark.svg"
+/>
 <br/>
 <br/>
 
