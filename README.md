@@ -1,20 +1,20 @@
 # 🙋‍♂️ Joao Batista
 
-**`Desenvolvedor Full Stack | Full Stack Developer | CEO @ Limvex Software`**
+**`Desenvolvedor Full Stack | Full Stack Developer | CEO @linvex-software`**
 
 ---
 
 ## 👨‍💻 Sobre mim | About me
 
 ### 🇧🇷 Português
-Sou um desenvolvedor Full Stack formado em Ciências da Computação na UNIMA | Afya e CEO da **Limvex Software**. Atuo no desenvolvimento de aplicações web modernas, seguras, escaláveis e centradas no usuário.
+Sou um desenvolvedor Full Stack formado em Ciências da Computação na UNIMA | Afya e CEO da **Limvex Software** (@linvex-software). Atuo no desenvolvimento de aplicações web modernas, seguras, escaláveis e centradas no usuário.
 
 Trabalho em todo o ciclo de desenvolvimento full stack, desde a criação de interfaces intuitivas até a integração de APIs e bancos de dados, sempre priorizando qualidade de código, desempenho, organização e boa comunicação.
 
 ---
 
 ### 🇺🇸 English
-I am a Full Stack Developer with a degree in Computer Science from UNIMA | Afya and CEO of **Limvex Software**. I focus on building modern, secure, scalable, and user-centered web applications.
+I am a Full Stack Developer with a degree in Computer Science from UNIMA | Afya and CEO of **Limvex Software** (@linvex-software). I focus on building modern, secure, scalable, and user-centered web applications.
 
 I work across the entire full stack, from designing intuitive user interfaces to integrating APIs and databases, always prioritizing code quality, performance, organization, and clear communication.
 
@@ -22,13 +22,14 @@ I work across the entire full stack, from designing intuitive user interfaces to
 
 ## 🏢 Limvex Software
 
-Sou **CEO e Desenvolvedor Full Stack** da **Limvex Software**, um grupo de tecnologia focado no desenvolvimento de software sob medida, criação de produtos digitais e aceleração de novos negócios. Atuamos como parceiros estratégicos, entregando soluções modernas, escaláveis e orientadas a resultados para empresas e startups.
+Sou **CEO e Desenvolvedor Full Stack** da **Limvex Software** (@linvex-software), um grupo de tecnologia focado no desenvolvimento de software sob medida, criação de produtos digitais e aceleração de novos negócios. Atuamos como parceiros estratégicos, entregando soluções modernas, escaláveis e orientadas a resultados para empresas e startups.
 
 ---
 
-I am the **CEO and Full Stack Developer** of **Limvex Software**, a technology group focused on custom software development, digital product creation, and business acceleration. We act as strategic partners, delivering modern, scalable, and results-oriented solutions for companies and startups.
+I am the **CEO and Full Stack Developer** of **Limvex Software** (@linvex-software), a technology group focused on custom software development, digital product creation, and business acceleration. We act as strategic partners, delivering modern, scalable, and results-oriented solutions for companies and startups.
 
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
