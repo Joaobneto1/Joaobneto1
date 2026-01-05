@@ -26,6 +26,9 @@ Sou **CEO e Desenvolvedor Full Stack** da **Limvex Software**, um grupo de tecno
 
 ---
 
+I am the **CEO and Full Stack Developer** of **Limvex Software**, a technology group focused on custom software development, digital product creation, and business acceleration. We act as strategic partners, delivering modern, scalable, and results-oriented solutions for companies and startups.
+
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
