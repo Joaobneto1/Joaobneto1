@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim | About me
 
-### 🇧🇷 Sou um desenvolvedor Full Stack formado em Ciências da Computação na UNIMA | Afya e CEO da **Limvex Software**. Atuo no desenvolvimento de aplicações web modernas, seguras, escaláveis e centradas no usuário.
+### 🇧🇷 Sou  desenvolvedor Full Stack formado em Ciências da Computação na UNIMA | Afya e CEO da **Limvex Software**. Atuo no desenvolvimento de aplicações web modernas, seguras, escaláveis e centradas no usuário.
 
 Trabalho em todo o ciclo de desenvolvimento full stack, desde a criação de interfaces intuitivas até a integração de APIs e bancos de dados, sempre priorizando qualidade de código, desempenho, organização e boa comunicação.
 
