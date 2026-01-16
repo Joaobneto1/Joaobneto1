@@ -212,6 +212,7 @@ I am the **CEO and Full Stack Developer** of **Limvex Software**, a technology g
 <div>
 <a href="https://www.linkedin.com/in/joaobatista011" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaobnmkt@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img src="https://komarev.com/ghpvc/?username=Joaobneto1&style=flat-square&color=blue"/>
 </div>
 
 ### Minhas Contribuições
