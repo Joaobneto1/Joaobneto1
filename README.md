@@ -4,16 +4,17 @@
 
 ---
 
-## 👨‍💻 Sobre mim | About me
+🇧🇷 Sobre mim
 
-### 🇧🇷 Sou  desenvolvedor Full Stack formado em Ciências da Computação  e CEO da **Limvex Software**. Atuo no desenvolvimento de aplicações web modernas, seguras, escaláveis e centradas no usuário.
+Sou desenvolvedor Full Stack formado em Ciências da Computação e CEO da Limvex Software, atuando no desenvolvimento de aplicações web modernas, seguras, escaláveis e centradas no usuário. Também trabalho com a criação e integração de agentes de Inteligência Artificial, voltados à automação de processos, atendimento inteligente, análise de dados e apoio à tomada de decisão.
 
-Trabalho em todo o ciclo de desenvolvimento full stack, desde a criação de interfaces intuitivas até a integração de APIs e bancos de dados, sempre priorizando qualidade de código, desempenho, organização e boa comunicação.
+Atuo em todo o ciclo de desenvolvimento full stack, desde a criação de interfaces intuitivas até a integração de APIs, bancos de dados e soluções baseadas em IA, sempre priorizando qualidade de código, desempenho, organização e boa comunicação.
 
----
-### 🇺🇸 I am a Full Stack Developer with a degree in Computer Science  and CEO of **Limvex Software**. I focus on building modern, secure, scalable, and user-centered web applications.
+🇺🇸 About me
 
-I work across the entire full stack, from designing intuitive user interfaces to integrating APIs and databases, always prioritizing code quality, performance, organization, and clear communication.
+I am a Full Stack Developer and CEO of Limvex Software, working on the development of modern, secure, scalable, and user-centered web applications. I also develop and integrate Artificial Intelligence agents focused on process automation, intelligent support, data analysis, and decision-making assistance.
+
+I work across the entire full stack, from designing intuitive user interfaces to integrating APIs, databases, and AI-powered solutions, always prioritizing code quality, performance, organization, and clear communication.
 
 ---
 
