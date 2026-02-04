@@ -206,6 +206,14 @@ I am the **CEO and Full Stack Developer** of **Limvex Software**, a technology g
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
 />
+<img 
+    align="left" 
+    alt="NestJs" 
+    title="NestJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"
+/>
 <br/>
 <br/>
 
