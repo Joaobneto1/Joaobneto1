@@ -1,6 +1,6 @@
 # 🙋‍♂️ Joao Batista
 
-**`Desenvolvedor Full Stack | Full Stack Developer | CEO @linvex-software`**
+**`Desenvolvedor Full Stack | Full Stack Developer | CEO @Limvex`**
 
 ---
 
