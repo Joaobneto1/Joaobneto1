@@ -2,29 +2,27 @@
 
 **`Desenvolvedor Full Stack | Full Stack Developer | CEO @Limvex`**
 
----
+## 🇧🇷 Sobre mim
 
-🇧🇷 Sobre mim
+Sou desenvolvedor com formação em Ciências da Computação e co-fundador da **Limvex Software**, atuando na fronteira entre desenvolvimento fullstack, modelagem preditiva e análise de dados. Conduzo projetos que vão desde a concepção de modelos de machine learning  e pipelines de dados até a entrega de produtos SaaS em produção, sempre com foco em qualidade de código, performance e produtos que funcionam de verdade em produção.
 
-Sou desenvolvedor Full Stack formado em Ciências da Computação e CEO da Limvex Software, atuando no desenvolvimento de aplicações web modernas, seguras, escaláveis e centradas no usuário. Também trabalho com a criação e integração de agentes de Inteligência Artificial, voltados à automação de processos, atendimento inteligente, análise de dados e apoio à tomada de decisão.
+Também trabalho com a criação e integração de **agentes de Inteligência Artificial**, voltados à automação de processos, atendimento inteligente e apoio à tomada de decisão. Atuo em todo o ciclo de desenvolvimento — modelagem de dados, backend, APIs, frontend e infraestrutura.
 
-Atuo em todo o ciclo de desenvolvimento full stack, desde a criação de interfaces intuitivas até a integração de APIs, bancos de dados e soluções baseadas em IA, sempre priorizando qualidade de código, desempenho, organização e boa comunicação.
+## 🇺🇸 About me
 
-🇺🇸 About me
+I am a developer with a Computer Science degree and co-founder of **Limvex Software**, working at the intersection of fullstack development, predictive modeling, and data analysis. I lead projects ranging from the design of machine learning models (XGBoost, LightGBM) and data pipelines to the delivery of SaaS products in production, always focused on code quality, performance, and products that actually work in production.
 
-I am a Full Stack Developer and CEO of Limvex Software, working on the development of modern, secure, scalable, and user-centered web applications. I also develop and integrate Artificial Intelligence agents focused on process automation, intelligent support, data analysis, and decision-making assistance.
-
-I work across the entire full stack, from designing intuitive user interfaces to integrating APIs, databases, and AI-powered solutions, always prioritizing code quality, performance, organization, and clear communication.
+I also work on the development and integration of **Artificial Intelligence agents** focused on process automation, intelligent support, and decision-making assistance. I work across the entire development cycle — data modeling, backend, APIs, frontend, and infrastructure — prioritizing scalable, secure, and user-centered solutions.
 
 ---
 
 ## 🏢 Limvex Software
 
-Sou **CEO e Desenvolvedor Full Stack** da **Limvex Software**, um grupo de tecnologia focado no desenvolvimento de software sob medida, criação de produtos digitais e aceleração de novos negócios. Atuamos como parceiros estratégicos, entregando soluções modernas, escaláveis e orientadas a resultados para empresas e startups.
+Sou **co-fundador e desenvolvedor** da **Limvex Software**, software house B2B com atuação em desenvolvimento custom, produtos SaaS e soluções com Inteligência Artificial, com foco no setor de crédito e mercado financeiro. Atuamos como parceiros técnicos, entregando soluções modernas, escaláveis e orientadas a resultados para empresas que precisam combinar tecnologia e processo para gerar resultado real.
 
 ---
 
-I am the **CEO and Full Stack Developer** of **Limvex Software**, a technology group focused on custom software development, digital product creation, and business acceleration. We act as strategic partners, delivering modern, scalable, and results-oriented solutions for companies and startups.
+I am **co-founder and developer** of **Limvex Software**, a B2B software house specialized in custom development, SaaS products, and AI-powered solutions, with a focus on the credit and financial market sectors. We act as technical partners, delivering modern, scalable, and results-oriented solutions for companies that need to combine technology and process to generate real business outcomes.
 
 ---
 
