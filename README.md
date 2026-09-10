@@ -1,32 +1,32 @@
-# 🙋‍♂️ Joao Batista
+## Software Engineer | Founder @ Limvex
 
-**`Desenvolvedor Full Stack | Full Stack Developer | CEO @Limvex`**
+Software engineer with a degree in Computer Science and founder of **[Limvex](https://limvex.com)**.
 
-## 🇧🇷 Sobre mim
+My background is in full-stack software development, with experience building web applications, SaaS products, backend systems, APIs, automations and data-driven solutions.
 
-Sou desenvolvedor com formação em Ciências da Computação e co-fundador da **Limvex Software**, atuando na fronteira entre desenvolvimento fullstack, modelagem preditiva e análise de dados. Conduzo projetos que vão desde a concepção de modelos de machine learning  e pipelines de dados até a entrega de produtos SaaS em produção, sempre com foco em qualidade de código, performance e produtos que funcionam de verdade em produção.
+I work across the software development lifecycle — from system architecture and data modeling to backend, frontend, integrations, infrastructure and deployment. My main stack includes **TypeScript, Node.js, React, Next.js, Python and PostgreSQL**.
 
-Também trabalho com a criação e integração de **agentes de Inteligência Artificial**, voltados à automação de processos, atendimento inteligente e apoio à tomada de decisão. Atuo em todo o ciclo de desenvolvimento — modelagem de dados, backend, APIs, frontend e infraestrutura.
+I also work with **Artificial Intelligence and AI agents**, applying LLMs and automation to business processes, internal systems, data workflows and decision-support tools.
 
-## 🇺🇸 About me
+More recently, I have been expanding my technical work into **quantitative research and trading infrastructure**, particularly software architecture, data pipelines, research systems, automation and the engineering required to support quantitative workflows.
 
-I am a developer with a Computer Science degree and co-founder of **Limvex Software**, working at the intersection of fullstack development, predictive modeling, and data analysis. I lead projects ranging from the design of machine learning models (XGBoost, LightGBM) and data pipelines to the delivery of SaaS products in production, always focused on code quality, performance, and products that actually work in production.
-
-I also work on the development and integration of **Artificial Intelligence agents** focused on process automation, intelligent support, and decision-making assistance. I work across the entire development cycle — data modeling, backend, APIs, frontend, and infrastructure — prioritizing scalable, secure, and user-centered solutions.
+While my role at Limvex has expanded beyond engineering into business, marketing and growth, I remain hands-on with technology and continue building software when it creates meaningful operational or product value.
 
 ---
 
-## 🏢 Limvex Software
+## Limvex
 
-Sou **co-fundador e desenvolvedor** da **Limvex Software**, software house B2B com atuação em desenvolvimento custom, produtos SaaS e soluções com Inteligência Artificial, com foco no setor de crédito e mercado financeiro. Atuamos como parceiros técnicos, entregando soluções modernas, escaláveis e orientadas a resultados para empresas que precisam combinar tecnologia e processo para gerar resultado real.
+I am the founder of **[Limvex](https://limvex.com)**, a Brazilian business group operating across healthcare, technology and financial markets.
+
+The group develops and operates businesses by combining management, technology, data and specialized execution.
+
+Our current operations include **Limvex Med**, focused on management and technology for private healthcare businesses, and a quantitative research and trading infrastructure project combining software engineering, data, research systems and risk management.
+
+I remain involved in the technical side of the group, contributing to software architecture, product development, automation, data systems and internal technology.
 
 ---
 
-I am **co-founder and developer** of **Limvex Software**, a B2B software house specialized in custom development, SaaS products, and AI-powered solutions, with a focus on the credit and financial market sectors. We act as technical partners, delivering modern, scalable, and results-oriented solutions for companies that need to combine technology and process to generate real business outcomes.
-
----
-
-### 🤖 Linguagens e Tecnologias
+### Technologies
 
 <img 
     align="left" 
@@ -215,14 +215,14 @@ I am **co-founder and developer** of **Limvex Software**, a B2B software house s
 <br/>
 <br/>
 
-### Contact me! 📭
+### Contact
 <div>
 <a href="https://www.linkedin.com/in/joaobnetoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaobnmkt@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <img src="https://komarev.com/ghpvc/?username=Joaobneto1&style=flat-square&color=blue"/>
 </div>
 
-### Minhas Contribuições
+### Contributions
 <div align="center">
 
 ![snake gif](https://github.com/Joaobneto1/Joaobneto1/blob/output/github-snake-dark.svg)
