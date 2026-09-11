@@ -1,14 +1,14 @@
 ## Software Engineer | Founder @ Limvex
 
-Software engineer with a degree in Computer Science and founder of **[Limvex](https://limvex.com)**.
+Software engineer with a degree in Computer Science and founder of Limvex.
 
-My background is in full-stack software development, with experience building web applications, SaaS products, backend systems, APIs, automations and data-driven solutions.
+My background is in software engineering, with experience building web applications, SaaS products, backend systems, APIs, automations and data-driven solutions.
 
-I work across the software development lifecycle — from system architecture and data modeling to backend, frontend, integrations, infrastructure and deployment. My main stack includes **TypeScript, Node.js, React, Next.js, Python and PostgreSQL**.
+I work across the software development lifecycle, from system architecture and data modeling to backend, frontend, integrations, infrastructure and deployment.
 
-I also work with **Artificial Intelligence and AI agents**, applying LLMs and automation to business processes, internal systems, data workflows and decision-support tools.
+I also work with Artificial Intelligence and AI agents, applying LLMs and automation to business processes, internal systems, data workflows and decision-support tools.
 
-More recently, I have been expanding my technical work into **quantitative research and trading infrastructure**, particularly software architecture, data pipelines, research systems, automation and the engineering required to support quantitative workflows.
+More recently, I have been expanding my technical work into quantitative research and trading infrastructure, particularly software architecture, data pipelines, research systems, automation and the engineering required to support quantitative workflows.
 
 While my role at Limvex has expanded beyond engineering into business, marketing and growth, I remain hands-on with technology and continue building software when it creates meaningful operational or product value.
 
