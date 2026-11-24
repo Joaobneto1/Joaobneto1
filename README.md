@@ -1,28 +1,33 @@
-## Software Engineer | Founder @ Limvex
+## Software Engineer | Founder & CTO @ Limvex
 
-Software engineer with a degree in Computer Science and founder of Limvex.
+Software engineer with a degree in Computer Science and Founder & CTO of Limvex.
 
-My background is in software engineering, with experience building web applications, SaaS products, backend systems, APIs, automations and data-driven solutions.
+My background is in software engineering, with experience building web applications, SaaS products, backend systems, APIs, automation and data-driven solutions.
 
-I work across the software development lifecycle, from system architecture and data modeling to backend, frontend, integrations, infrastructure and deployment.
+I work across the entire software development lifecycle, from system architecture and data modeling to backend, frontend, infrastructure and deployment.
 
-I also work with Artificial Intelligence and AI agents, applying LLMs and automation to business processes, internal systems, data workflows and decision-support tools.
+My current work focuses on the intersection of software engineering, artificial intelligence and financial technology, particularly quantitative research systems, market data infrastructure, trading systems and decision-support tools.
 
-More recently, I have been expanding my technical work into quantitative research and trading infrastructure, particularly software architecture, data pipelines, research systems, automation and the engineering required to support quantitative workflows.
+I also explore AI agents, LLM-powered applications, intelligent automation and agentic software development workflows, applying these technologies to engineering, research and business operations.
 
-While my role at Limvex has expanded beyond engineering into business, marketing and growth, I remain hands-on with technology and continue building software when it creates meaningful operational or product value.
+As CTO, I lead technical strategy, software architecture, engineering workflows and product development while remaining hands-on with technology.
+
+I am particularly interested in building reliable, scalable and practical systems that turn complex problems into meaningful products.
 
 ---
 
 ## Limvex
 
-I am the founder of **[Limvex](https://limvex.com)**, a Brazilian business group operating across healthcare, technology and financial markets.
+I am the Founder & CTO of **[Limvex](https://limvex.com)**, a Brazilian fintech focused on quantitative technology, financial intelligence and software engineering.
 
-The group develops and operates businesses by combining management, technology, data and specialized execution.
+At Limvex, we combine software engineering, quantitative research, financial data and artificial intelligence to develop technology for financial markets.
 
-Our current operations include **Limvex Med**, focused on management and technology for private healthcare businesses, and a quantitative research and trading infrastructure project combining software engineering, data, research systems and risk management.
+Our current focus includes quantitative research platforms, market intelligence, portfolio analysis, strategy validation, risk management and trading infrastructure.
 
-I remain involved in the technical side of the group, contributing to software architecture, product development, automation, data systems and internal technology.
+I lead the company's engineering efforts, overseeing technical architecture, product development, data infrastructure and the integration of artificial intelligence into our systems.
+
+---
+
 
 ---
 
